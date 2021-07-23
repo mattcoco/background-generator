@@ -1,0 +1,22 @@
+body {
+	text-align:center; /*para centrar los inputs*/
+	background: linear-gradient(to right, red, blue);
+}
+
+h1 {
+	font-family: "Arial Narrow", sans-serif;
+	color: white;
+	text-align: center;
+
+}
+
+h2 {
+	font-family: "Arial Narrow", sans-serif;
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	color: white;
+	text-align: center;
+}
